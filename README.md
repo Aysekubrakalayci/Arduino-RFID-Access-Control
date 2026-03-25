@@ -25,5 +25,4 @@ Tanımlı kartlar okutulduğunda servo motor tetiklenerek kapı mekanizmasını 
 *  LCD ekran ile kullanıcıya karşılama mesajı gösterilmesi.
 *  Birden fazla kullanıcı ile daha kompleks bir güvenli sistemi.
 
----
-Bu proje Gömülü Sistemler dersi kapsamında geliştirilmiştir.
+
